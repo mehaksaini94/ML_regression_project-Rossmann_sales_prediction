@@ -5,7 +5,7 @@ Given a dataset containing sales and probable factors affecting sales of Rossman
 # Conclusions:
 Based on the insights gathered from the analysis of the dataset, we can draw the following conclusions:
 
-# Store Operations:
+## Store Operations:
 The store is typically open most of the time, with Sunday being the day it's closed the most.
 There are very few school holidays and even fewer state holidays observed in the dataset.
 # Sales Trends:
